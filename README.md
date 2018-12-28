@@ -1,5 +1,3 @@
 # Shelter-Animal-Outcomes
 
-## Stat 340 - Applied Regression Methods 
-
-Final Project
+Stat 340 - Applied Regression Methods Final Project
